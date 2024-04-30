@@ -1,0 +1,14 @@
+.dotted-divider {
+    width: 100%; /* Span the full width of the container */
+    height: 1px; /* Set the line height to 1px for a thin line */
+    border-bottom: 1px dotted #0a0a0a; /* Create a dotted border */
+    margin: 10px 0; /* Add some spacing above and below the line */
+  }
+.dotted {
+    width: 100%; /* Span the full width of the container */
+    height: 1px; /* Set the line height to 1px for a thin line */
+    border-bottom: 1px dotted #0a0a0a; /* Create a dotted border */
+     /* Add some spacing above and below the line */
+  }
+
+ 
